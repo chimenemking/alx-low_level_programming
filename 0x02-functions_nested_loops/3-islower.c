@@ -7,7 +7,7 @@
  * Return: (1) if c is lower otherwise (0)
  *
  */
-int_islower(int c)
+int _islower(int c)
 {
 	char i;
 	int lower = 0;
